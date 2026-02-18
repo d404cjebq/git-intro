@@ -1,1 +1,1 @@
-New conflicting change
+Change from feature branch

@@ -1,4 +1,1 @@
- feature-improvement
-Change from feature branch
-Message from main branch
- main
+New conflicting change

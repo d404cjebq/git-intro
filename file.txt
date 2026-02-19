@@ -1,7 +1,0 @@
-some change
-<<<<<<< HEAD
-some change
-=======
-another change
->>>>>>> feature
-some change

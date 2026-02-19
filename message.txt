@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+ HEAD
 Change from feature branch
-=======
+
 Change from main
->>>>>>> 90deed2 (Change message in main)
+ 90deed2 (Change message in main)
